@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+whatsapp_profile/
+chromedriver.exe
+.env
