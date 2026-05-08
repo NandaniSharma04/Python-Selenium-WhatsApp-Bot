@@ -64,7 +64,7 @@ Python-Selenium-WhatsApp-Bot/
 
 ## After Sending Messages
 
-![After Sending](screenshots/afterSendingMessage.png)
+![After Sending](screenshots/AfterSendingMessage.png)
 
 ---
 
